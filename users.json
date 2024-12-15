@@ -1,0 +1,50 @@
+[
+    {
+        "uName": "emanuel",
+        "age": 25,
+        "Weekly income": 1000.00,
+        "Weekly Expense": 750.67,
+        "Initial Assets": 10000,
+        "Weekly Savings": 249.33
+    },
+    {
+        "uName": "abel",
+        "age": 30,
+        "Weekly income": 850.00,
+        "Weekly Expense": 670.67,
+        "Initial Assets": 4500,
+        "Weekly Savings": 179.33
+    },
+    {
+        "uName": "sami",
+        "age": 27,
+        "Weekly income": 900.00,
+        "Weekly Expense": 680.00,
+        "Initial Assets": 6000,
+        "Weekly Savings": 220.00
+    },
+    {
+        "uName": "kira",
+        "age": 22,
+        "Weekly income": 1100.00,
+        "Weekly Expense": 800.00,
+        "Initial Assets": 7000,
+        "Weekly Savings": 300.00
+    },
+    {
+        "uName": "john",
+        "age": 35,
+        "Weekly income": 1200.00,
+        "Weekly Expense": 950.00,
+        "Initial Assets": 8000,
+        "Weekly Savings": 250.00
+    },
+    {
+        "uName": "nati",
+        "age": 28,
+        "Weekly income": 1050.00,
+        "Weekly Expense": 720.00,
+        "Initial Assets": 5500,
+        "Weekly Savings": 330.00
+    }
+]
